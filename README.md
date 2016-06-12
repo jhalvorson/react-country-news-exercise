@@ -1,16 +1,12 @@
-# React Skeleton
+# React Country News
 
-A simple skeleton that's been tried and tested to be used in future React applications. Simply download the project and run `npm start` to get the project running.
+Based on the React Skeleton.
 
-## Dependencies
+A simple React app as part of a Devslopes course.
 
-1. Browserify
-2. Babelify
-3. React
-4. React Dom
-5. Babel Preset React
-6. Watchify
+---
 
-### To do for next release
+### How to get it going
 
-1. Add git-ignore so that third-party scripts are not added to the repo
+- 'npm install'
+- 'npm start'
