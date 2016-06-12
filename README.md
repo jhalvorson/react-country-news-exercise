@@ -8,5 +8,5 @@ A simple React app as part of a Devslopes course.
 
 ### How to get it going
 
-- 'npm install'
-- 'npm start'
+- `npm install`
+- `npm start`
