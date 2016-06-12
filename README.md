@@ -8,5 +8,6 @@ A simple React app as part of a Devslopes course.
 
 ### How to get it going
 
-- `npm install`
-- `npm start`
+Install Dependencies: `npm install`
+Start: `npm start`
+Launch Server: `http-server -p portnumber`
