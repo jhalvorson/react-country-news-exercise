@@ -32,10 +32,10 @@ var SingleNews = React.createClass({
     return(
       <div style={styles.panel} className="panel panel-default">
         <div className="panel-body">
-          <div className="col-md-2">
+          <div className="col-md-1">
           <img style={styles.author} src={this.props.author} />
           </div>
-          <div className="col-md-10">
+          <div className="col-md-11">
             <h2 style={styles.title}>{this.props.title}</h2>
             <h5>{this.props.sub}</h5>
             <p>{this.props.text}</p>

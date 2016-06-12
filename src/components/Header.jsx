@@ -12,7 +12,7 @@ var mainHeader = React.createClass({
           marginBottom: '-100px'
         },
         content:{
-          padding: "35px"
+          padding: "35px 0px"
         }
     };
     return(
